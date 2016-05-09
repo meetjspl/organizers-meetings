@@ -1,4 +1,4 @@
-# spotkanie organizatorów meet.js - 09.05.16
+# 9 Maja
 
 * **Data:** Poniedziałek, 9 Maja 2016
 * **Czas:** 19:00 - 20:30

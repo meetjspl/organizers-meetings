@@ -1,4 +1,4 @@
-# spotkanie organizatorów meet.js - 18.04.16
+# 18 Kwietnia
 
 * **Data:** Poniedziałek, 18 Kwietnia 2016
 * **Czas:** 19:00 - 20:30
