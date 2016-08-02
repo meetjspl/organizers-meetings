@@ -57,6 +57,6 @@
 
 ## Termin kolejnego spotkania
 
-* **Data:** Poniedziałek, 1 Sierpnia 2016
+* **Data:** Poniedziałek, 5 Września 2016
 * **Czas:** 19:00 - 20:30
 * **Miejsce:** Google Hangouts
